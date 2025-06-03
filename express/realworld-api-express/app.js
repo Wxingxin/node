@@ -4,6 +4,9 @@ const PORT = process.env.PORT || 8080;
 //错误处理
 const errorHandle = require('./middleware/error-handler')
 
+//app.js引入连接数据库 只需引入model文件即可
+require("./model");
+
 //引入路由
 const router = require('./router/index')
 
