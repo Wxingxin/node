@@ -1,0 +1,99 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram name="第 1 页" id="XTm7Y_w8FqtYCxjco9YK">
+        <mxGraphModel dx="734" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-1" value="express的基础知识" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-2" value="express的中间件，的&lt;div&gt;执行流程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-3" value="express是5中中间件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-4" value="express的包的基本使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="30" as="sourcePoint"/>
+                        <mxPoint x="440" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-9" value="express的包&lt;div&gt;结合中间件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="470" as="sourcePoint"/>
+                        <mxPoint x="470" y="820" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-11" value="MySQL和node&lt;div&gt;链接和测试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-12" value="MySQL的&lt;div&gt;crud结合项目&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="600" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-13" value="MySQL的&lt;div&gt;crud&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-14" value="MySQL结合相应的&lt;div&gt;package&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-15" value="结合项目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-16" value="mongodb和node&lt;div&gt;链接和测试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="495" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-17" value="结合项目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="735" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="70" y="480" as="sourcePoint"/>
+                        <mxPoint x="70" y="910" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-19" value="mongodb的&lt;div&gt;crud&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="555" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-20" value="mongodb的&lt;div&gt;crud结合项目&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="675" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-22" value="mongodb结合相应的&lt;div&gt;package&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="615" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="42.5" as="sourcePoint"/>
+                        <mxPoint x="80" y="417.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-26" value="node的基本使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lkU1lqKTG3I1Oi_qK8yh-28" value="node的基本的&lt;div&gt;os&lt;/div&gt;&lt;div&gt;path&lt;/div&gt;&lt;div&gt;http&lt;/div&gt;&lt;div&gt;nodemon&lt;/div&gt;&lt;div&gt;。。。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="100" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="rvpwNDbFS64oIKwv9hvA-1" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Consolas-with-Yahei Nerd Font&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, &amp;quot;Monaspace Neon Var&amp;quot;, monospac, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.2px; line-height: 21px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;font-weight: bold;&quot;&gt;sequelize&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Consolas-with-Yahei Nerd Font&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, &amp;quot;Monaspace Neon Var&amp;quot;, monospac, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16.2px; line-height: 21px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;font-weight: bold;&quot;&gt;Prisma&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="795" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="3XKt5uniKopTbZDXcrLV" name="第 2 页">
+        <mxGraphModel dx="1042" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
